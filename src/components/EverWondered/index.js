@@ -7,7 +7,7 @@ const EverWondered = () => {
         Let your friends, family, and co-workers (anonymously) rate your social
         skills.
       </p>
-      <h2 className="my-5 text-4xl font-bold">
+      <h2 className="my-5 text-5xl font-bold">
         Ever wondered what others think of you?
       </h2>
       <ul className="flex justify-around my-12">

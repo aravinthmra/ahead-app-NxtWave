@@ -14,10 +14,18 @@
   background-color: #edf8fe;
 }
 
+.work-with-us-container1{
+    background-color: #F3F1FF;
+}
+
 .bg-image {
   background-size: cover;
   border-radius: 40px;
   height: 80vh;
+}
+
+.bg-container-home{
+    height: 100vh;
 }
 
 .horizontal-line {
@@ -49,4 +57,16 @@
 /* Handle on hover */
 ::-webkit-scrollbar-thumb:hover {
     background: #555;
+}
+
+#work-scroll1::-webkit-scrollbar {
+    width: 2px;
+}
+
+#work-scroll1::-webkit-scrollbar-track {
+    background: transparent;
+}
+
+#work-scroll1::-webkit-scrollbar-thumb {
+    background: #4B27DC;
 }

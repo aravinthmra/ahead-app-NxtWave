@@ -5,7 +5,7 @@ const cardList = [
     emoji: "😤",
     heading: "You feel under appreciated",
     description:
-      "You've put a lot of effort into a project, and a colleague offers some harsh criticism. How do you react in the moment?",
+      "You've put a lot of effort into a project, and a colleague offers some harsh criticism.",
   },
   {
     id: 2,
@@ -13,7 +13,7 @@ const cardList = [
     emoji: "🤧",
     heading: "You feel ignored in a meeting",
     description:
-      "You have a great idea to share, but it feels like no one is listening. How can you express your emotions constructively?",
+      "You have a great idea to share, but it feels like no one is listening. How do you react in the moment? ",
   },
   {
     id: 3,
@@ -29,7 +29,7 @@ const cardList = [
     emoji: "😒",
     heading: "You argue with a colleague",
     description:
-      "A disagreement with a coworker becomes heated. How do you react in the moment?",
+      "A disagreement with a coworker becomes heated. How can you express your emotions constructively?",
   },
   {
     id: 5,
@@ -43,9 +43,9 @@ const cardList = [
     id: 6,
     bgColor: "#F3F1FF",
     emoji: "🙃",
-    heading: "You feel ignored in a meeting",
+    heading: "You lack confidence to tell your mind",
     description:
-      "You have a great idea to share, but it feels like no one is listening. How can you express your emotions constructively?  What strategies can help you to feel heard and respected?",
+      "You have a great idea to share, but it feels like no one is listening. How can you express your emotions constructively?",
   },
 ];
 
@@ -67,8 +67,8 @@ const sounding_card = (props) => {
 const SoundsFamiliar = () => {
   return (
     <div className="flex flex-col">
-      <h2 className="mb-5 text-4xl font-bold">Does this sound familiar...</h2>
-      <ul className="flex my-10 w-full scrollbar-hide overflow-x-hidden">
+      <h2 className="mb-5 text-5xl font-bold">Does this sound familiar...</h2>
+      <ul className="flex my-10 w-full overflow-x-hidden">
         {cardList.map((item) => sounding_card(item))}
       </ul>
     </div>
