@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **aravinthmspv@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1C8n6bhKH1h509PK0MB8CCraJNfGFS_Ug/view?usp=sharing](https://drive.google.com/file/d/1C8n6bhKH1h509PK0MB8CCraJNfGFS_Ug/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1C8n6bhKH1h509PK0MB8CCraJNfGFS_Ug/view?usp=sharing)
 
 - ⚡ Fun fact: **I speak Spanish**
 
