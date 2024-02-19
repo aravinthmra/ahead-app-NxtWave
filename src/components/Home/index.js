@@ -1,6 +1,7 @@
 import Navbar from "../Navbar";
 import MasterYourLife from "../MasterYourLife";
 import EQBeatsIQ from "../EQBeatsIQ";
+import SoundsFamiliar from "../SoundsFamiliar";
 
 import "./index.css";
 
@@ -10,6 +11,7 @@ const Home = () => {
       <Navbar />
       <MasterYourLife />
       <EQBeatsIQ />
+      <SoundsFamiliar />
     </div>
   );
 };

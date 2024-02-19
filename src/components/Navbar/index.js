@@ -7,7 +7,7 @@ const Navbar = () => {
         <img className="w-16 rounded-xl" src={logo} alt="ahead-logo" />
       </div>
       <ul className="w-100 flex justify-between items-center">
-        <li className="mx-3">Emotions</li>
+        <li className="mx-3"></li>
         <li className="mx-3">Manifesto</li>
         <li className="mx-3">Self-awareness test</li>
         <li className="mx-3">Work With Us</li>
