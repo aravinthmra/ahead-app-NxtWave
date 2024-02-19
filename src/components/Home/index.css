@@ -11,11 +11,20 @@
 }
 
 .ever-wondered-container1 {
-  background-color: #EDF8FE;
+  background-color: #edf8fe;
 }
 
-.bg-image{
+.bg-image {
   background-size: cover;
   border-radius: 40px;
   height: 80vh;
+}
+
+.horizontal-line {
+  border-top: 1px solid grey;
+  width: 100%;
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  z-index: 1; /* Ensure visibility above other elements */
 }
