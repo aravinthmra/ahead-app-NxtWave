@@ -1,6 +1,6 @@
 const MeetAheadApp = () => {
     return(
-        <div className="meet-ahead-app-container1">
+        <div className="bg-image meet-ahead-app-container1">
         </div>
     )
 }

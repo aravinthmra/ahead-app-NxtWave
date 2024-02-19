@@ -4,12 +4,18 @@
 
 .master-your-life-container1 {
   background-image: url("../../assets/MasterYourLifeBG.jpeg");
-  background-size: cover;
-  height: 80vh;
 }
 
 .meet-ahead-app-container1 {
   background-image: url("../../assets/meetTheAheadApp.jpeg");
+}
+
+.ever-wondered-container1 {
+  background-color: #EDF8FE;
+}
+
+.bg-image{
   background-size: cover;
+  border-radius: 40px;
   height: 80vh;
 }

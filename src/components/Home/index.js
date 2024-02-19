@@ -4,6 +4,7 @@ import EQBeatsIQ from "../EQBeatsIQ";
 import SoundsFamiliar from "../SoundsFamiliar";
 import MeetAheadApp from "../MeetAheadApp";
 import BeTheBest from "../BeTheBest";
+import EverWondered from "../EverWondered";
 
 import "./index.css";
 
@@ -16,6 +17,7 @@ const Home = () => {
       <SoundsFamiliar />
       <MeetAheadApp />
       <BeTheBest />
+      <EverWondered />
     </div>
   );
 };
