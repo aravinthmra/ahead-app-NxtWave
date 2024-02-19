@@ -54,7 +54,7 @@ const sounding_card = (props) => {
   return (
     <li
       key={id}
-      className={`flex-none w-2/12 mx-3 rounded-xl p-5`}
+      className={`flex-none w-3/12 mx-3 rounded-xl p-5`}
       style={{ backgroundColor: bgColor }}
     >
       <p className="text-3xl mb-3">{emoji}</p>
