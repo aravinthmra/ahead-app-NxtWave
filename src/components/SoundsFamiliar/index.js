@@ -68,7 +68,7 @@ const SoundsFamiliar = () => {
   return (
     <div className="flex flex-col">
       <h2 className="mb-5 text-5xl font-bold">Does this sound familiar...</h2>
-      <ul className="flex my-10 w-full overflow-x-hidden">
+      <ul id="familiar-scroll1" className="flex my-10 w-full overflow-x-auto">
         {cardList.map((item) => sounding_card(item))}
       </ul>
     </div>
