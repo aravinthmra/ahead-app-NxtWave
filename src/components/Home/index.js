@@ -8,6 +8,7 @@ import EverWondered from "../EverWondered";
 import BeforeStarted from "../BeforeStarted";
 import WorkWithUs from "../WorkWithUs";
 import OpenVacancies from "../OpenVacancies";
+import Footer from "../Footer";
 
 import "./index.css";
 
@@ -24,6 +25,8 @@ const Home = () => {
       <BeforeStarted />
       <WorkWithUs />
       <OpenVacancies />
+      <hr />
+      <Footer />
     </div>
   );
 };
